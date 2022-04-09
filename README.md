@@ -3,10 +3,10 @@
 # 🎓 Education 
 
 ### University of California, Davis
-BS, Computer Science & Engineering ('22 ➞ '24)
+BS, Computer Science & Engineering (Sep '22 ➞ Jun '24)
 
 ### Diablo Valley College
-AS, Computer Science ('19 ➞ '22)
+AS, Computer Science (Aug '19 ➞ May '22)
 
 ### Udemy
 * Complete Python Bootcamp
@@ -14,10 +14,16 @@ AS, Computer Science ('19 ➞ '22)
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
 
 # 💼 Projects 
-Salat Web App
+"Tarkeez" Web App
 * Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API
 * (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS)
 * https://github.com/yahya-s9/Tarkeez
+
+MNIST Handwritten Digit Recognizer
+* Designed an Artificial Neural Network using to recognize what number a handwritten digit represents
+* (Python: Matplotlib, Pandas, NumPy, Scikit-Learn)
+* https://github.com/yahya-s9/MNISTDigitRecognizer
+
 
 ## Languages and Tools
 
