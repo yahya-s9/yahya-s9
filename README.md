@@ -1,17 +1,23 @@
-## Hi I'm Yahya, An Aspiring Software Engineer 💻
+# Hello I'm Yahya! 👋🏽
 
-## 🎓 Education 
+# 🎓 Education 
 
-University of California, Davis <span style="font-size:1em;">(2022 ➞ 2024)</span> <br>
-BS, Computer Science & Engineering 
+### University of California, Davis
+BS, Computer Science & Engineering ('22 ➞ '24)
 
-Diablo Valley College (2019 ➞ 2022) <br>
-AS, Computer Science 
+### Diablo Valley College
+AS, Computer Science ('19 ➞ '22)
 
-## 💼 Projects 
-Tarkeez (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS) <br>
-&emsp; - Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API <br>
-&emsp; - https://github.com/yahya-s9/Tarkeez
+### Udemy
+* Complete Python Bootcamp
+* Python for Machine Learning & Data Science Bootcamp
+* The Complete Web Development Bootcamp w/ Dr. Angela Yu
+
+# 💼 Projects 
+Salat Web App
+* Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API
+* (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS)
+* https://github.com/yahya-s9/Tarkeez
 
 ## Languages and Tools
 
