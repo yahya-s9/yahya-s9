@@ -17,12 +17,13 @@ AS, Computer Science (Aug '19 ➞ May '22)
 "Tarkeez" Web App
 * Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API
 * (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS)
-* https://github.com/yahya-s9/Tarkeez
+* Source Code: https://github.com/yahya-s9/Tarkeez
+* Live Version: https://obscure-stream-89952.herokuapp.com
 
 MNIST Handwritten Digit Recognizer
 * Designed an Artificial Neural Network using to recognize what number a handwritten digit represents
 * (Python: Matplotlib, Pandas, NumPy, Scikit-Learn)
-* https://github.com/yahya-s9/MNISTDigitRecognizer
+* Report: https://github.com/yahya-s9/MNISTDigitRecognizer
 
 
 ## Languages and Tools
