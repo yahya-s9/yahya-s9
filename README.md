@@ -6,8 +6,24 @@
 BS, Computer Science & Engineering (Sep '22 ➞ Jun '24)
 
 ### Diablo Valley College
-AS, Computer Science (Aug '19 ➞ May '22)
+AS, Computer Science (Aug '19 ➞ May '22) 
 
+#### Relevant Coursework
+<table>
+  <tr>
+    <td>COMSC-165:Advanced C++ Programming </td>
+    <td>COMSC-200: Object Oriented Programming</td> 
+  </tr>
+  <tr>
+    <td>COMSC-210: Data Structures and Program Design</td>
+    <td>COMSC-260: Assembly Language</td> 
+  </tr>
+  <tr>
+    <td>CIS-107: Introduction to Web Databases</td>
+    <td>MATH-195: Discrete Mathematics</td> 
+  </tr>
+</table>
+ 
 ### Udemy
 * Complete Python Bootcamp
 * Python for Machine Learning & Data Science Bootcamp
