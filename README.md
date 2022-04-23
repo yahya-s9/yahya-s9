@@ -2,8 +2,8 @@
 
 # 🎓 Education 
 
-### University of California, Davis
-BS, Computer Science & Engineering (Sep '22 ➞ Jun '24)
+### University of California, Berkeley
+BS, Computer Science & Engineering (Aug '22 ➞ Dec '24)
 
 ### Diablo Valley College
 AS, Computer Science (Aug '19 ➞ May '22) 
