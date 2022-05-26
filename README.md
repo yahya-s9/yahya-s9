@@ -3,7 +3,7 @@
 # 🎓 Education 
 
 ### University of California, Berkeley
-BS, Computer Science & Engineering (Aug '22 ➞ Dec '24)
+BS, Electrical Engineering & Computer Sciences (Aug '22 ➞ Dec '24)
 
 ### Diablo Valley College
 AS, Computer Science (Aug '19 ➞ May '22) 
