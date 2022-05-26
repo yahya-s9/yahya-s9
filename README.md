@@ -1,4 +1,4 @@
-# Hello I'm Yahya! 👋🏽 Aspiring Software Developer 💻
+# Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
 
 # 🎓 Education 
 
