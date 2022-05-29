@@ -4,10 +4,6 @@
 
 ### University of California, Berkeley
 BS, Electrical Engineering & Computer Sciences (Aug '22 ➞ Dec '24)
-
-### Diablo Valley College
-AS, Computer Science (Aug '19 ➞ May '22) 
-
  
 ### Udemy
 * Complete Python Bootcamp
