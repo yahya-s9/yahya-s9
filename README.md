@@ -3,7 +3,7 @@
 # 🎓 Education 
 
 ### University of California, Berkeley
-BS, Electrical Engineering & Computer Sciences (Aug '22 ➞ Dec '24)
+BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
  
 ### Udemy
 * Complete Python Bootcamp
