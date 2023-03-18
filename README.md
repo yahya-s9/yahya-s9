@@ -2,10 +2,15 @@
 
 # 🎓 Education 
 
-### University of California, Berkeley
+## University of California, Berkeley
 BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
+
+### Coursework
+* Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
+* Data Structures (Java, Git)
+* Discrete Mathematics & Probability Theory
  
-### Udemy
+## Udemy
 * Complete Python Bootcamp
 * Python for Machine Learning & Data Science Bootcamp
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
