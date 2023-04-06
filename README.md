@@ -16,6 +16,14 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
 
 # 💼 Projects 
+
+Ramadan Food Waste Tracker Web App
+* Visualizes the compostable food waste generated everynight from Berkeley Masjid's free Ramadan iftars
+* (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS, Chart.JS)
+* Source Code: https://github.com/yahya-s9/FoodWasteVisualizer
+* Live Version: [https://obscure-stream-89952.herokuapp.com](https://frozen-depths-01344.herokuapp.com)
+
+
 "Tarkeez" Web App
 * Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API
 * (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS)
