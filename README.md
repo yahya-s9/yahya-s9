@@ -21,7 +21,7 @@ Ramadan Food Waste Tracker Web App
 * Visualizes the compostable food waste generated everynight from Berkeley Masjid's free Ramadan iftars
 * (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS, Chart.JS)
 * Source Code: https://github.com/yahya-s9/FoodWasteVisualizer
-* Live Version: [https://obscure-stream-89952.herokuapp.com](https://frozen-depths-01344.herokuapp.com)
+* Live Version: [(https://frozen-depths-01344.herokuapp.com](https://frozen-depths-01344.herokuapp.com)
 
 
 "Tarkeez" Web App
