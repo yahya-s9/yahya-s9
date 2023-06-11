@@ -6,13 +6,30 @@
 BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 
 ### Coursework
+
+| Course        | Title           | Semester  |
+| ------------- |:-------------:| -----:|
+| CS 61A      | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
+| CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
+| CS 61C | `Machine Structures (C, RISC-V)`      |    Fall 2023 |
+
+<!-- There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3 -->
+
+<!-- 
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * Data Structures (Java, Git)
 * Machine Structures (C, RISC-V)
 * Discrete Mathematics & Probability Theory
 
 * Designing Information Systems and Devices I
-* Designing Information Systems and Devices II
+* Designing Information Systems and Devices II -->
  
 ## Udemy
 * Complete Python Bootcamp
