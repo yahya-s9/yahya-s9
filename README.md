@@ -26,11 +26,6 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 * Python for Machine Learning & Data Science Bootcamp
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
 
-# 📈 Personal Project Stats
-| Stats for my public repos only (excludes class projects, HWs & labs) | Languages (public repos only)           |
-| ------------- |-------------| 
-| [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-s9&hide=issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-s9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-
 # 💼 Projects 
 
 Ramadan Food Waste Tracker Web App
@@ -49,7 +44,12 @@ Prayer time Web App
 MNIST Handwritten Digit Recognizer
 * Designed an Artificial Neural Network using to recognize what number a handwritten digit represents
 * (Python: Matplotlib, Pandas, NumPy, Scikit-Learn)
-* Report: https://github.com/yahya-s9/MNISTDigitRecognizer
+* Report: https://github.com/yahya-s9/
+
+# 📈 Personal Project Stats
+| Stats for my public repos only (excludes class projects, HWs & labs) | Languages (public repos only)           |
+| ------------- |-------------| 
+| [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-s9&hide=issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-s9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ## Languages and Tools
