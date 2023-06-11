@@ -1,5 +1,11 @@
 # Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
 
+
+
+<!-- [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats) -->
+
 # 🎓 Education 
 
 ## University of California, Berkeley
@@ -13,28 +19,17 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 | CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
 | CS 61C | `Machine Structures (C, RISC-V)`      |    Fall 2023 |
 
-<!-- There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3 -->
-
-<!-- 
-* Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
-* Data Structures (Java, Git)
-* Machine Structures (C, RISC-V)
-* Discrete Mathematics & Probability Theory
-
-* Designing Information Systems and Devices I
-* Designing Information Systems and Devices II -->
  
-## Udemy
+### Udemy
 * Complete Python Bootcamp
 * Python for Machine Learning & Data Science Bootcamp
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
+
+# 📈 Personal Project Stats
+| Stats for my public repos only (excludes class projects, HWs & labs) | Languages (public repos only)           |
+| ------------- |-------------| 
+| [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-s9&hide=issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-s9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 # 💼 Projects 
 
