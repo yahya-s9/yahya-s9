@@ -64,7 +64,9 @@ https://github-readme-stats-7bfol3lp9-yahya-s9.vercel.app/ -->
 
 
 
-[![Yahya's GitHub stats](https://github-readme-stats-7bfol3lp9-yahya-s9.vercel.app/api?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
+[![Yahya's GitHub stats](https://github-readme-stats-fxw817d5i-yahya-s9.vercel.app/api?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-fxw817d5i-yahya-s9.vercel.app/api/top-langs/?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
