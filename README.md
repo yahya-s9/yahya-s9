@@ -8,7 +8,11 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
 * Data Structures (Java, Git)
+* Machine Structures (C, RISC-V)
 * Discrete Mathematics & Probability Theory
+
+* Designing Information Systems and Devices I
+* Designing Information Systems and Devices II
  
 ## Udemy
 * Complete Python Bootcamp
@@ -24,7 +28,7 @@ Ramadan Food Waste Tracker Web App
 * Live Version: [(https://frozen-depths-01344.herokuapp.com](https://frozen-depths-01344.herokuapp.com)
 
 
-"Tarkeez" Web App
+Prayer time Web App
 * Retrieves the 5 Muslim Prayer Times for any city in the world using the Al-Adhan API
 * (HTML, CSS, Bootstrap | Node.JS, Express.JS, EJS)
 * Source Code: https://github.com/yahya-s9/Tarkeez
