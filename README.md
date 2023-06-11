@@ -1,17 +1,5 @@
 # Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
 
-
-
-
-
-<!-- [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
-
-https://github-readme-stats-yahya-s9.vercel.app/
-
-https://github-readme-stats-7bfol3lp9-yahya-s9.vercel.app/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats) -->
-
 # 🎓 Education 
 
 ## University of California, Berkeley
@@ -24,13 +12,17 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 | CS 61A      | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
 | CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
 | CS 61C | `Machine Structures (C, RISC-V)`      |    Fall 2023 |
-
-
  
-### Udemy
+### Udemy Courses
 * Complete Python Bootcamp
 * Python for Machine Learning & Data Science Bootcamp
 * The Complete Web Development Bootcamp w/ Dr. Angela Yu
+
+# 📈 GitHub Stats (Excluding Data Structures Class in Java)
+
+| Stats | Languages |
+| ------------- |-------------| 
+| [![Yahya's GitHub stats](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api?username=yahya-s9&hide=issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api/top-langs/?username=yahya-s9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 # 💼 Projects 
 
@@ -51,21 +43,6 @@ MNIST Handwritten Digit Recognizer
 * Designed an Artificial Neural Network using to recognize what number a handwritten digit represents
 * (Python: Matplotlib, Pandas, NumPy, Scikit-Learn)
 * Report: https://github.com/yahya-s9/
-
-# 📈 Personal Project Stats
-
-
-
-
-<!-- [![Yahya's GitHub stats](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api/top-langs/?username=yahya-s9)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-| Stats | Languages |
-| ------------- |-------------| 
-| [![Yahya's GitHub stats](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api?username=yahya-s9&hide=issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-e8ox38wfq-yahya-s9.vercel.app/api/top-langs/?username=yahya-s9&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## Languages and Tools
 
