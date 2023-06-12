@@ -1,5 +1,7 @@
 # Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
 
+<br>
+
 # 🎓 Education 
 
 ## University of California, Berkeley
@@ -12,12 +14,20 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 | CS 61A      | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
 | CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
 | CS 61C | `Machine Structures (C, RISC-V)`      |    Fall 2023 |
- 
-### Udemy Courses
-* Complete Python Bootcamp
-* Python for Machine Learning & Data Science Bootcamp
-* The Complete Web Development Bootcamp w/ Dr. Angela Yu
 
+| Course        | Title           | Semester  |
+| ------------- |:-------------:| -----:|
+| EECS 16A      | `Designing Information Systems & Devices I` <br> `(Linear Algebra, Circuits, Introduction to Machine Learning)` | Fall 2022 |
+| EECS 16B      | `Designing Information Systems & Devices II` <br> `(Differential Equations, Robotics & Control, Unsupervised Machine Learning)`     |   Fall 2023 |
+
+| Udemy Courses  |
+| :-------------:|
+| `Complete Python Bootcamp` | 
+| `Python for Machine Learning & Data Science Bootcamp` | 
+| `The Complete Web Development Bootcamp w/ Dr. Angela Yu` |
+ 
+<br>
+ 
 # 📈 GitHub Stats (Excluding Data Structures Class in Java)
 
 | Stats | Languages |
