@@ -28,7 +28,7 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
  
 <br>
  
-# 📈 GitHub Stats (Excluding Data Structures Class in Java)
+# 📈 GitHub Stats (Repos that I own only)
 
 | Stats | Languages |
 | ------------- |-------------| 
