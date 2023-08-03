@@ -13,7 +13,6 @@ BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
 | ------------- |:-------------:| -----:|
 | CS 61A      | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
 | CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
-| CS 61C | `Machine Structures (C, RISC-V)`      |    Summer 2023 |
 | CS 188 | `Intro to Machine Learning (Python)`      |    Fall 2023 |
 
 | Course        | Title           | Semester  |
