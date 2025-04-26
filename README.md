@@ -1,4 +1,4 @@
-# Hello I'm Yahya! 👋🏽 A̶s̶p̶i̶r̶i̶n̶g̶ Software Engineer 💻
+# Hello I'm Yahya! 👋🏽  ̶A̶s̶p̶i̶r̶i̶n̶g̶ Software Engineer 💻
 
 <br>
 
