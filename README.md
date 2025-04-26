@@ -1,21 +1,23 @@
-# Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
+# Hello I'm Yahya! 👋🏽 A̶s̶p̶i̶r̶i̶n̶g̶ Software Engineer 💻
 
 <br>
 
 # 🎓 Education 
 
 ## University of California, Berkeley
-BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
+BS, Electrical Engineering & Computer Sciences, Class of 2024
 
 ### Coursework
 
 | Course        | Title           | Semester  |
 | ------------- |:-------------:| -----:|
-| CS 61A      | `Structure & Interpretation of Computer Programs (Python, Scheme, SQL)` | Fall 2022 |
-| CS 61B      | `Data Structures (Java, Git)`     |   Spring 2023 |
-| CS 188 | `Intro to Artificial Intelligence (Python)`      |    Fall 2023 |
+| CS 61A      | `Structure & Interpretation of Computer Programs` | Fall 2022 |
+| CS 61B      | `Data Structures`| Spring 2023 |
+| CS 188 | `Intro to Artificial Intelligence`      | Fall 2023 |
 | CS 161 | `Computer Security` | Spring 2024 |
-| CS 186 | `Databasr Systems` | Spring 2024 |
+| CS 186 | `Database Systems` | Spring 2024 |
+| CS 168 | `Intro to Internet` | Fall 2024 |
+| CS 169 | `Software Engineering` | Fall 2024 |
 
 | Course        | Title           | Semester  |
 | ------------- |:-------------:| -----:|
