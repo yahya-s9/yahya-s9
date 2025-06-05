@@ -3,7 +3,7 @@
 🎓 University of California, Berkeley 🐻 <br>
 BS, Electrical Engineering & Computer Sciences, Class of 2024
 
-### Check out my professional experience, coursework & projects: [here](https://yahya-s9.github.io/)
+### Check out my professional experience, coursework & projects: [here]()
  
 ### 📈 GitHub Stats (Repos that I own only)
 
