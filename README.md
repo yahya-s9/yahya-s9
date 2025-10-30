@@ -1,6 +1,7 @@
 # Hello I'm Yahya! 👋🏽 Software Engineer 💻
 
-🤖 Ml Infra / Data Infra @ Zoox  
+🤖: ml / data infra software engineer @ zoox
+📩: yahya.qt [at] berkeley [dot] edu
 
 🎓 University of California, Berkeley 🐻 <br>
 BS, Electrical Engineering & Computer Sciences, Class of 2024
