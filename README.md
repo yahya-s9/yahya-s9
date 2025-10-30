@@ -1,6 +1,6 @@
 # Hello I'm Yahya! 👋🏽 Software Engineer 💻
 
-🤖: ml / data infra software engineer @ zoox
+🤖: ml / data infra software engineer @ zoox <br>
 📩: yahya.qt [at] berkeley [dot] edu
 
 🎓 University of California, Berkeley 🐻 <br>
